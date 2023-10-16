@@ -1,0 +1,19 @@
+{
+  "name": "booking-session-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuliya110692/booking-session-api.git"
+  },
+  "author": "Yulia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuliya110692/booking-session-api/issues"
+  },
+  "homepage": "https://github.com/Yuliya110692/booking-session-api#readme"
+}
